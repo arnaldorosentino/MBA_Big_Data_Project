@@ -9,7 +9,7 @@ A análise pode explorar as ineficiências no processo de atendimento das solici
 
 ## Dados Disponíveis para Análise
 
-* [Link de Acesso]([https://www.linkedin.com/in/arnaldo-rosentino/](https://dadosabertos.aneel.gov.br/dataset/atendimento-mmgd-mini-e-micro-geracao-distribuida))
+* [Link de Acesso](https://dadosabertos.aneel.gov.br/dataset/atendimento-mmgd-mini-e-micro-geracao-distribuida)
 
 **Descrição das Variáveis:**
 
