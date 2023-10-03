@@ -2,6 +2,7 @@
 
 ## Objetivo
 Explorar o Dataset “Atendimento a pedidos de conexões MMGD - Mini e Microgeração distribuída - pós Lei 14300” disponibilizado pela Agência Nacional de Energia Elétrica (ANEEL).
+
 Trata-se de dados solicitados por meio do OFÍCIO CIRCULAR nº 5/2023- SFE/SRD/SMA/ANEEL (Documento SICnet ANEEL nº 48534.000626/2023-00) com o objetivo de obter informações para promover o acompanhamento dos atendimentos realizados pelas Distribuidoras às solicitações de conexão de unidades com microgeração ou minigeração distribuída, realizadas no período entre 7 de janeiro de 2022 e 7 de janeiro de 2023, com finalidade de participação no Sistema de Compensação de Energia Elétrica (SCEE), nos termos da Lei nº 14.300, de 6 de janeiro de 2022.
 
 ## Problema de Negócio
