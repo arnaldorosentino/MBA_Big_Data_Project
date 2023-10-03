@@ -1,4 +1,4 @@
-# MBA_Big_Data_Project
+# Projeto Big Data
 
 ## Objetivo
 Explorar o Dataset “Atendimento a pedidos de conexões MMGD - Mini e Microgeração distribuída - pós Lei 14300” disponibilizado pela Agência Nacional de Energia Elétrica (ANEEL).
